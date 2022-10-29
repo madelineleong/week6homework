@@ -1,0 +1,57 @@
+body {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  padding: 100px;
+}
+
+h1 {
+  font-size: 24px;
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.current-location {
+  display: block;
+  margin: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  border: solid;
+  font-size: 18px;
+}
+.current-temperature {
+  display: block;
+  margin: 20px;
+  padding-top: 10px;
+  text-align: center;
+  border: solid;
+  font-size: 18px;
+}
+.search-city {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.weekly {
+  font-size: 14px;
+  text-align: center;
+  padding: 5px;
+}
+.location-city {
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+}
+.temperature {
+  display: block;
+  text-align: center;
+}
